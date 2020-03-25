@@ -3,7 +3,6 @@ This contains the following algorithms / data structures:
 1. Karatsuba integer multiplication algorithm.
 2. Mergesort with counting inversions.
 3. Closest pair of points on a plane
-*. Strassen's Matrix multiplication algorithm.
 4. Quicksort and ith order statistic.
 5. Karger's minimum cut algorithm with union-find data structure.
 6. BFS and DFS
@@ -26,5 +25,3 @@ This contains the following algorithms / data structures:
 22. Square-root decompositon for range sum queries.
 23. Binary search tree (with insert, delete, search, print)
 24. Union Find (Disjoint Set Union) with union by rank and path compression.
-
-* : Yet to be added.
